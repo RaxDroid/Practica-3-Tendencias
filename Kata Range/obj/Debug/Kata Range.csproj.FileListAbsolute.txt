@@ -1,0 +1,6 @@
+C:\Users\raule\source\repos\Kata Range\Kata Range\bin\Debug\Kata Range.exe.config
+C:\Users\raule\source\repos\Kata Range\Kata Range\bin\Debug\Kata Range.exe
+C:\Users\raule\source\repos\Kata Range\Kata Range\bin\Debug\Kata Range.pdb
+C:\Users\raule\source\repos\Kata Range\Kata Range\obj\Debug\Kata Range.csprojAssemblyReference.cache
+C:\Users\raule\source\repos\Kata Range\Kata Range\obj\Debug\Kata Range.exe
+C:\Users\raule\source\repos\Kata Range\Kata Range\obj\Debug\Kata Range.pdb
